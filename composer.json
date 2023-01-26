@@ -1,0 +1,18 @@
+{
+    "name": "kak/browser-version-cop",
+    "require": {
+        "matomo/device-detector": "^6.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kak\\BrowserVersionCop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sanchezzzhak",
+            "email": "sanchezzzhak@ya.ru"
+        }
+    ]
+}
